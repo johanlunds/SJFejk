@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SJFejk</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="i_want_to_go_to">I want to go to…</string>
+</resources>
